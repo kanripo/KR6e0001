@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方廣佛華嚴經
+#+DATE: 2015-09-28 22:52:38.653784
+#+PROPERTY: JUAN 0
