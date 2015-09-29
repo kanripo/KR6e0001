@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:37.157248
+#+DATE: 2015-09-28 22:53:12.369142
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0001_T_038-0639a> 
 #+PROPERTY: JUAN 38
 ¶
-
- 《大方廣佛華嚴經》卷第三十八¶
+《大方廣佛華嚴經》卷第三十八¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之三
-:PROPERTIES:
-:head: 離世間品第三十三之三
-:END:
-¶
+離世間品第三十三之三¶
 
 「佛子！菩薩摩訶薩有十種巧方便分別智。¶
 何等為十？所謂：入一切佛剎巧方便分別¶
@@ -294,8 +289,7 @@
 退菩提，是為第八印。菩薩摩訶薩令一切¶
 眾生住平等心，修一切智，為眾生說法，悉¶
 令不退無上菩提，長養大悲，是為第九印。¶
-菩薩摩訶薩隨順三世諸佛，一切善根紹¶
-繼佛種，生一切智，是為第十印。佛子！是為¶
+菩薩摩訶薩隨順三世諸佛，一切善根紹繼佛種，生一切智，是為第十印。佛子！是為¶
 菩薩摩訶薩十種智印；若菩薩摩訶薩成就¶
 此印，疾得阿耨多羅三藐三菩提，具足如來¶
 無上智印。

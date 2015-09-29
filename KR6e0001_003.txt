@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:35.972592
+#+DATE: 2015-09-28 22:53:11.132553
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0001_T_003-0407a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三¶
+《大方廣佛華嚴經》卷第三¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之二
-:PROPERTIES:
-:head: 盧舍那佛品第二之二
-:END:
-¶
+盧舍那佛品第二之二¶
 
 此世界海下方，次有世界海，名蓮華妙香¶
 勝藏；中有佛剎，名寶師子光，佛號明照法¶
