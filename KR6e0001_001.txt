@@ -1,27 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:35.885013
+#+DATE: 2015-09-28 22:52:47.180324
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0001_T_001-0395a> 
 #+PROPERTY: JUAN 1
 ¶
-No.278[No.279]¶
-
- 《大方廣佛華嚴經》卷第一¶
+No. 278 [No. 279]¶
+《大方廣佛華嚴經》卷第一¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-1世間淨眼品
-之一
-:PROPERTIES:
-:head: 世間淨眼品第一之一
-:END:
-¶
+世間淨眼品第一之一¶
 
 如是我聞：
 

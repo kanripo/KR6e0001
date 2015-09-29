@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.587628
+#+DATE: 2015-09-28 22:52:47.837419
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0001_T_020-0524b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第二十¶
+《大方廣佛華嚴經》卷第二十¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之七
-:PROPERTIES:
-:head: 金剛幢菩薩十迴向品第二十一之七
-:END:
-¶
+金剛幢菩薩十迴向品第二十一之七¶
 
 「佛子！何等為菩薩摩訶薩第八如相迴向？¶
 佛子！此菩薩摩訶薩成就念智安住不動，¶

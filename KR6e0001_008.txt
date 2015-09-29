@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.185018
+#+DATE: 2015-09-28 22:52:47.468579
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6e0001_T_008-0443b> ¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第八¶
+《大方廣佛華嚴經》卷第八¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之二
-:PROPERTIES:
-:head: 菩薩雲集妙勝殿上說偈品第十之二
-:END:
-¶
+菩薩雲集妙勝殿上說偈品第十之二¶
 
 爾時，善慧菩薩承佛神力，普觀十方，以¶
 偈頌曰：¶
@@ -261,11 +256,7 @@
 #+END_VERSE
 」¶
 
-11菩薩十住品
-:PROPERTIES:
-:head: 《大方廣佛華嚴經》菩薩十住品第十一
-:END:
-¶
+《大方廣佛華嚴經》菩薩十住品第十一¶
 
 爾時，法慧菩薩承佛神力，入菩薩無量方便¶
 三昧正受。入三昧已，十方千佛世界塵數佛¶
@@ -892,11 +883,7 @@
 #+END_VERSE
 」¶
 
-12梵行品
-:PROPERTIES:
-:head: 《大方廣佛華嚴經》梵行品第十二
-:END:
-¶
+《大方廣佛華嚴經》梵行品第十二¶
 
 爾時，正念天子白法慧菩薩言：「佛子！一切¶
 世界中，諸菩薩摩訶薩信家、非家、出家學¶
