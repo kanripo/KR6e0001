@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.823241
+#+DATE: 2015-09-28 22:53:02.968100
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0001_T_027-0571a> ¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第二十七¶
+《大方廣佛華嚴經》卷第二十七¶
 ¶
-東晉天竺三藏佛馱跋陀羅譯¶
+東晉天竺三藏佛馱跋陀羅譯三藏佛馱跋陀羅譯¶
 
-之五
-:PROPERTIES:
-:head: 十地品第二十二之五
-:END:
-¶
+十地品第二十二之五¶
 
 #+BEGIN_VERSE
 「　說諸大菩薩，
@@ -368,8 +363,7 @@
 其身內，見三千大千世界莊嚴眾事，若滿一¶
 劫說不可盡；於中見佛道場樹，其莖周圍¶
 十萬三千大千世界，高百萬三千大千世界，¶
-覆三千億三千大千世界，稱樹高廣，有師¶
-子座；其座上有佛，號一切智王如來，一切¶
+覆三千億三千大千世界，稱樹高廣，有師子座；其座上有佛，號一切智王如來，一切¶
 大眾咸皆見佛坐在座上，其中所有莊嚴上¶
 妙供養之具，滿一劫說，亦不可盡。金剛藏¶
 菩薩示現如是大神力已，還令大眾各在¶

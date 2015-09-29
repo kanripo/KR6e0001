@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:37.559281
+#+DATE: 2015-09-28 22:53:03.704389
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0001_T_050-0713b> 
 #+PROPERTY: JUAN 50
 ¶
-
- 《大方廣佛華嚴經》卷第五十¶
+《大方廣佛華嚴經》卷第五十¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之七
-:PROPERTIES:
-:head: 入法界品第三十四之七
-:END:
-¶
+入法界品第三十四之七¶
 
 「善男子！復有香名牛頭栴檀，從離垢山¶
 王生，若以塗身，火不能燒；復有香名不¶
@@ -324,7 +319,7 @@
 「善男子！入此法門，現前正受一切法¶
 林三昧時，十方一切世界諸佛處兜率天¶
 者，於彼一一佛所，從其自身出生不可說¶
-不可說佛剎微塵等摩㝹摩身，恭敬禮拜；又¶
+不可說佛剎微塵等摩[少/兔]摩身，恭敬禮拜；又¶
 齎不可說不可說佛剎微塵等華、香、纓珞、諸¶
 妙寶鬘、末香、塗香、衣蓋、幢幡種種寶華雲，¶
 乃至一切莊嚴具雲，寶網、寶帳、莊嚴網等種種¶

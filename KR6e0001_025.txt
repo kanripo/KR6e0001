@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.751298
+#+DATE: 2015-09-28 22:53:02.885097
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0001_T_025-0555b> ¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第二十五¶
+《大方廣佛華嚴經》卷第二十五¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之三
-:PROPERTIES:
-:head: 十地品第二十二之三
-:END:
-¶
+十地品第二十二之三¶
 
 #+BEGIN_VERSE
 「　諸菩薩聞是，
@@ -522,8 +517,7 @@
 二分不斷業道，餘因緣分不斷苦道，先、後¶
 際相續故，是三道不斷，是三道離我、我所¶
 而有生滅。又無明及行是過去事，識、名色、¶
-六入、觸、受是現在事，愛、取、有、生、老死是未¶
-來事，於是有三世轉；無明滅故諸行滅，名¶
+六入、觸、受是現在事，愛、取、有、生、老死是未來事，於是有三世轉；無明滅故諸行滅，名¶
 為斷三世相續說。又十二因緣說名三苦：¶
 無明、行、識、名色、六入，名為行苦，觸、受名為苦¶
 苦，愛、取、有、生、老死、憂、悲、苦、惱名為壞苦；無¶

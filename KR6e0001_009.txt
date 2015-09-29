@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.224920
+#+DATE: 2015-09-28 22:53:02.350186
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0001_T_009-0449c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第九¶
+《大方廣佛華嚴經》卷第九¶
 ¶
-東晉天竺三藏佛馱跋陀羅譯¶
+東晉天竺三藏佛馱跋陀羅譯馱跋陀羅譯¶
 
-13初發心菩薩功德品
-:PROPERTIES:
-:head: 初發心菩薩功德品第十三
-:END:
-¶
+初發心菩薩功德品第十三¶
 
 爾時，天帝釋白法慧菩薩言：「佛子！初發心¶
 菩薩為成就幾功德藏？」

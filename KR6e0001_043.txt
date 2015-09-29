@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:37.305439
+#+DATE: 2015-09-28 22:53:03.474794
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6e0001_T_043-0667a> ¶¶
 #+PROPERTY: JUAN 43
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第四十三¶
+《大方廣佛華嚴經》卷第四十三¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之八
-:PROPERTIES:
-:head: 離世間品第三十三之八
-:END:
-¶
+離世間品第三十三之八¶
 
 「佛子！菩薩摩訶薩有十種生。何等為十？¶
 所謂：離愚癡生；放大光明網，普照三千大千¶
