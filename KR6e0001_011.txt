@@ -1,26 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.309105
+#+DATE: 2015-09-28 22:52:59.292254
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@ZHI
 #+PROPERTY: LASTPB <pb:KR6e0001_T_011-0466b> 
 #+PROPERTY: JUAN 11
 ¶
-
- 《大方廣佛華嚴經》卷第十一¶
+《大方廣佛華嚴經》卷第十一¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-17功德華聚菩薩十行品
-之一
-:PROPERTIES:
-:head: 功德華聚菩薩十行品第十七之一
-:END:
-¶
+功德華聚菩薩十行品第十七之一¶
 
 爾時，功德林菩薩摩訶薩承佛神力，入菩薩¶
 善伏三昧。入三昧已，十方各過萬佛世界塵¶
@@ -370,7 +364,7 @@
 著境界、不著教化成熟眾生、不著入深¶
 法界。何以故？菩薩如是觀察：一切法界如¶
 幻；諸佛法如電；菩薩行如夢；所聞法如¶
-響；一切世界如化；業報所起。如摩㝹摩化¶
+響；一切世界如化；業報所起。如摩[少/兔]摩化¶
 身，知一切眾生猶如畫像，種種異形，皆由¶
 心畫。所說諸法，皆如實際；於一念中，遍滿¶
 十方。修菩薩行，廣大如法界，究竟如虛空。¶

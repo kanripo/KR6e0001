@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.436373
+#+DATE: 2015-09-28 22:52:59.423728
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@ZHI
 #+PROPERTY: LASTPB <pb:KR6e0001_T_015-0493b> ¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第十五¶
+《大方廣佛華嚴經》卷第十五¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之二
-:PROPERTIES:
-:head: 金剛幢菩薩十迴向品第二十一之二
-:END:
-¶
+金剛幢菩薩十迴向品第二十一之二¶
 
 「佛子！何等為菩薩摩訶薩第三等諸佛迴¶
 向？此菩薩摩訶薩隨順學過去、未來、現在諸¶
@@ -607,7 +602,7 @@
 切眾生。彼菩薩摩訶薩成就如意功德寶¶
 藏，隨所遊方，悉能嚴淨一切佛剎，令不可¶
 說不可說眾生安住攝取諸功德力。菩薩摩¶
-訶薩如是迴向時，以此迴向威力故，一切¶
+訶薩如是迴向時，以此迴向依力故，一切¶
 所行，無有倫匹，一切世間，所不能壞，威攝¶
 眾魔，莫能瞻對，具足成就不退功德，無量¶
 大願，皆悉成就。其心彌廣，等一切智，於一¶

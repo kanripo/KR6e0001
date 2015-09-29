@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.491750
+#+DATE: 2015-09-28 22:52:59.486494
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@ZHI
 #+PROPERTY: LASTPB <pb:KR6e0001_T_017-0505c> 
 #+PROPERTY: JUAN 17
 ¶
-
- 《大方廣佛華嚴經》卷第十七¶
+《大方廣佛華嚴經》卷第十七¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之四
-:PROPERTIES:
-:head: 金剛幢菩薩十迴向品第二十一之四
-:END:
-¶
+金剛幢菩薩十迴向品第二十一之四¶
 
 「菩薩摩訶薩施種種蓋，所謂：尊重人蓋，種¶
 種妙寶而莊嚴之，於無量無邊嚴飾蓋中最¶
@@ -261,7 +256,7 @@
 一切眾生得佛清淨不亂之髮；令一切眾生¶
 得應供塔髮，除滅惡心，見如來髮；令一切¶
 眾生髮離諸塵垢，悉得如來無染著髮。是¶
-為菩薩摩訶薩布施頂髮及髻明珠善根迴¶
+為菩薩摩訶薩布施頂髮及髻髻明珠善根迴¶
 向，令一切眾生悉得究竟一切陀羅尼諸三¶
 昧門，一切種智，及佛十力。
 

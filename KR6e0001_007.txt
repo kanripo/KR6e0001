@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.143344
+#+DATE: 2015-09-28 22:52:59.137012
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@ZHI
 #+PROPERTY: LASTPB <pb:KR6e0001_T_007-0436b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第七¶
+《大方廣佛華嚴經》卷第七¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之二
-:PROPERTIES:
-:head: 賢首菩薩品第八之二
-:END:
-¶
+賢首菩薩品第八之二¶
 
 #+BEGIN_VERSE
 「　「又放光明名愛樂，
@@ -867,11 +862,7 @@
 #+END_VERSE
 」¶
 
-9佛昇須彌頂品
-:PROPERTIES:
-:head: 《大方廣佛華嚴經》佛昇須彌頂品第九
-:END:
-¶
+《大方廣佛華嚴經》佛昇須彌頂品第九¶
 
 爾時，如來威神力故，十方一切諸佛世界諸¶
 四天下，一一閻浮提，皆有如來坐菩提樹¶
@@ -946,14 +937,9 @@
 師子座，結跏趺坐。坐已，宮殿忽然廣博如¶
 忉利天處，一切十方，亦復如是。¶
 
-10菩薩雲集妙勝殿上說偈品
-:PROPERTIES:
-:head: 《大方廣佛華嚴經》菩薩雲集妙勝殿上說¶
-偈品第十
-:END:
-¶
+《大方廣佛華嚴經》菩薩雲集妙勝殿上說¶
+偈品第十¶
 
-之一
 爾時，十方各過百佛世界微塵數剎，一一方¶
 各十世界，其世界名因陀羅；次名蓮華；次¶
 名眾寶；次名優鉢羅；次名妙行；次名善行；¶
