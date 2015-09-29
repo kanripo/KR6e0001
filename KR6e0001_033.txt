@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.996917
+#+DATE: 2015-09-28 22:53:09.137193
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0001_T_033-0607a> 
 #+PROPERTY: JUAN 33
 ¶
-
- 《大方廣佛華嚴經》卷第三十三¶
+《大方廣佛華嚴經》卷第三十三¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-31普賢菩薩行品
-:PROPERTIES:
-:head: 普賢菩薩行品第三十一
-:END:
-¶
+普賢菩薩行品第三十一¶
 
 爾時，普賢菩薩摩訶薩告諸菩薩言：「佛子！¶
 如向所說是微少說，何以故？一切如來、應¶
@@ -672,13 +667,8 @@
 」
 <pb:KR6e0001_T_033-0611b>¶
 
-32寶王如來性起品
-之一
-:PROPERTIES:
-:head: 《大方廣佛華嚴經》寶王如來性起品¶
-第三十二之一
-:END:
-¶
+《大方廣佛華嚴經》寶王如來性起品¶
+第三十二之一¶
 
 爾時，如來眉間白毫相中放大光明，名曰¶
 明如來法，無量億那由他阿僧祇光以為眷¶

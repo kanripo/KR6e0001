@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:37.187917
+#+DATE: 2015-09-28 22:53:09.343157
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0001_T_039-0644b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 39
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第三十九¶
+《大方廣佛華嚴經》卷第三十九¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之四
-:PROPERTIES:
-:head: 離世間品第三十三之四
-:END:
-¶
+離世間品第三十三之四¶
 
 「佛子！菩薩摩訶薩有十種寶，住成阿耨多¶
 羅三藐三菩提。何等為十？所謂：菩薩摩訶薩¶
