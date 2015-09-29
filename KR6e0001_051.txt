@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:37.588183
+#+DATE: 2015-09-28 22:52:45.990382
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@BEIZANG
 #+PROPERTY: LASTPB <pb:KR6e0001_T_051-0718a> ¶¶¶
 #+PROPERTY: JUAN 51
 ¶
 ¶
-
- 《大方廣佛華嚴經》卷第五十一¶
+《大方廣佛華嚴經》卷第五十一¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之八
-:PROPERTIES:
-:head: 入法界品第三十四之八
-:END:
-¶
+入法界品第三十四之八¶
 
 爾時，善財童子正念思惟彼長者教，隨¶
 順菩薩解脫之藏，正念菩薩諸憶念力，次¶
@@ -211,7 +206,7 @@
 時，善財童子頭面敬禮彼大天足，乃至辭退，¶
 趣摩竭國，詣彼道場安住地神。爾時，一萬¶
 地天各作是言：「此來童子，能攝眾生，即是佛¶
-藏；能破一切眾生無明㲉膜，生法王家，離¶
+藏；能破一切眾生無明[穀-禾+卵]膜，生法王家，離¶
 垢無礙，寶繒以冠其頂，智慧寶藏摧外道輪。」¶
 時，安住地天等一萬地天，雨眾香水以灑其¶
 地，掃以香風而以莊嚴，放大光明普照三¶
