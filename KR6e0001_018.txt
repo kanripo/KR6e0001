@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:36.527486
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:36
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
@@ -16,7 +16,7 @@
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之五
+** 之五
 :PROPERTIES:
 :head: 金剛幢菩薩十迴向品第二十一之五
 :END:
