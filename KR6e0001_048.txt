@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:37.498550
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:36
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0001_T_048-0702b> 
 #+PROPERTY: JUAN 48
 ¶
-
- 《大方廣佛華嚴經》卷第四十八¶
+《大方廣佛華嚴經》卷第四十八¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之五
-:PROPERTIES:
-:head: 入法界品第三十四之五
-:END:
-¶
+** 入法界品第三十四之五¶
 
 爾時，善財童子起不可思議恭敬之心，好¶
 樂淨法，專向大乘，求諸佛智，親近如來，觀¶
@@ -78,8 +73,7 @@
 門、佛陀羅尼門、法陀羅尼門、眾生陀羅尼門、¶
 過去陀羅尼門、未來陀羅尼門、現在陀羅尼¶
 門、安住實際陀羅尼門、功德陀羅尼門、功德¶
-具陀羅尼門、智陀羅尼門、智具陀羅尼門、諸¶
-願陀羅尼門、分別諸願陀羅尼門、行陀羅尼¶
+具陀羅尼門、智陀羅尼門、智具陀羅尼門、諸願陀羅尼門、分別諸願陀羅尼門、行陀羅尼¶
 門、修集行陀羅尼門、淨行陀羅尼門、滿足行¶
 陀羅尼門、業陀羅尼門、不違業陀羅尼門、業¶
 流陀羅尼門、業所作陀羅尼門、遠離惡業陀

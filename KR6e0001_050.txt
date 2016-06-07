@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:37.559281
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:36
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0001_T_050-0713b> 
 #+PROPERTY: JUAN 50
 ¶
-
- 《大方廣佛華嚴經》卷第五十¶
+《大方廣佛華嚴經》卷第五十¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之七
-:PROPERTIES:
-:head: 入法界品第三十四之七
-:END:
-¶
+** 入法界品第三十四之七¶
 
 「善男子！復有香名牛頭栴檀，從離垢山¶
 王生，若以塗身，火不能燒；復有香名不¶

@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:52:37.131185
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:36
 #+TITLE: 大方廣佛華嚴經
 #+PROPERTY: CBETA_ID T09n0278
 #+PROPERTY: ID KR6e0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0278
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0001_T_037-0633c> 
 #+PROPERTY: JUAN 37
 ¶
-
- 《大方廣佛華嚴經》卷第三十七¶
+《大方廣佛華嚴經》卷第三十七¶
 ¶
 東晉天竺三藏佛馱跋陀羅譯¶
 
-之二
-:PROPERTIES:
-:head: 離世間品第三十三之二
-:END:
-¶
+** 離世間品第三十三之二¶
 
 「佛子！菩薩摩訶薩有十種戒。何等為十？¶
 所謂：不壞菩提心戒；離聲聞、緣覺地戒；饒益¶
@@ -63,8 +58,7 @@
 過去一切眾生心行；入未來一切眾生心行；¶
 入現在一切眾生心行；入一切眾生諸善根¶
 行；入一切眾生不善根行；入一切眾生心心¶
-所行；入一切眾生諸根行；入一切眾生種¶
-性行；入一切眾生煩惱使習氣行；入一切眾¶
+所行；入一切眾生諸根行；入一切眾生種性行；入一切眾生煩惱使習氣行；入一切眾¶
 生時、非時調伏行。佛子！是為十種入眾生心¶
 行；因是十種入眾生心行，則能普入一切¶
 眾生心行。
